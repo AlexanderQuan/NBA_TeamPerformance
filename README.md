@@ -5,4 +5,4 @@ This report showcases the top contenders in the NBA league for each season, and 
 
 ## Dataset
 
-Data source obtained from [here](https://www.kaggle.com/nathanlauga/nba-games?select=games.csv&fbclid=IwAR1MrVfkb3uzELqRYmHwzEqPJzOqWx93wtzouIgEJaRok_rXWwFBfV645jM)
+Data acquired from [here](https://www.kaggle.com/nathanlauga/nba-games?select=games.csv&fbclid=IwAR1MrVfkb3uzELqRYmHwzEqPJzOqWx93wtzouIgEJaRok_rXWwFBfV645jM)
